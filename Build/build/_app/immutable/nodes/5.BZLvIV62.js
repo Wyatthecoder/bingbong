@@ -1,1 +1,0 @@
-import{n as e}from"../chunks/COiEfhsA.js";import{j as t,k as n}from"../chunks/CYbD-KyH.js";var r=e({prerender:()=>!1}),i=t(`<div class="fixed top-0 bottom-0 right-0 left-0 bg-background h-full w-full"></div>`);function a(e){window.location.reload();var t=i();n(e,t)}export{a as component,r as universal};

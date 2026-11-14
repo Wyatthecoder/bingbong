@@ -1,1 +1,0 @@
-var e={email:`support@metallic.eu.org`,github:`https://github.com/Metallic-Web/Metallic`,discord:`https://discord.gg/unblock`};export{e as t};
